@@ -1,0 +1,16 @@
+## day 1##
+
+1.compiler convert my code in binary  format
+2.trangistor work this work
+3.asii table and corresponding numer -> 82
+4.image -> convert number ->binary
+5.RGB for color image
+6.int a (hear first bit loacation then lenth int then stop it form all trangistor )
+
+## day 2 ###
+1.user input and ouput
+1.increment and decrement and operation
+2.x or and shifting
+2.if 
+3.switch
+4.loop
