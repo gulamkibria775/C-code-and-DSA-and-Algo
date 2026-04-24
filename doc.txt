@@ -20,3 +20,9 @@
 2.pattern loop
 3.try and try and create more loop and findout pattern
 4. create more loop and findout pattern
+
+####### day 4 ###########
+1.you see first and then break down like your language then step by 
+step build code 
+2.prime number
+3.sum of digit
