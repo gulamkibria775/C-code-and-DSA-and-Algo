@@ -9,8 +9,14 @@
 
 ## day 2 ###
 1.user input and ouput
-1.increment and decrement and operation
-2.x or and shifting
-2.if 
-3.switch
-4.loop
+2.increment and decrement and operation
+3.x or and shifting
+4.if 
+5.switch
+6.loop
+
+## day 3 ###########
+1.character loop
+2.pattern loop
+3.try and try and create more loop and findout pattern
+4. create more loop and findout pattern
